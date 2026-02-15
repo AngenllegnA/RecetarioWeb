@@ -1,8 +1,0 @@
-password: awQ438tmz1QZX
-user:if0_40270851
-db name: if0_40270851_recetario
-host: sql104.infinityfree.com
-
-infinityfree
-correo institucional
-aarc5878
